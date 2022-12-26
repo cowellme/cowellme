@@ -2,7 +2,7 @@
 - 👀 I’m interested in Crypto 
 - 🌱 I’m currently learning C# C C++ and Go
 - 💞️ I’m looking to collaborate on exchange
-- 📫 How to reach me ...
+- 📫 How to reach me tratatatata41@gmail.com
 
 <!---
 cowellme/cowellme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
