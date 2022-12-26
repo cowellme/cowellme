@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cowellme
 - 👀 I’m interested in Crypto 
-- 🌱 I’m currently learning C# C C++
+- 🌱 I’m currently learning C# C C++ and Go
 - 💞️ I’m looking to collaborate on exchange
 - 📫 How to reach me ...
 
